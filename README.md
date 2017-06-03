@@ -1,0 +1,2 @@
+# MVVMLightNavigationService
+MVVMLight导航的Demo,桌面客户端下
